@@ -31,7 +31,7 @@ const Testimonial = (props) => {
 
       <div>
         <img
-          src="/quote-left.svg"
+          src="quote-left.svg"
           alt="quote-left"
           className="opacity-20 w-10 pb-1 md:w-12 lg:w-16"
         />
@@ -39,7 +39,7 @@ const Testimonial = (props) => {
           {props.testimonial}
         </h1>
         <img
-          src="/quote-right.svg"
+          src="quote-right.svg"
           alt="quote-right"
           className="opacity-20 w-10 ml-auto pb-1 md:w-12 lg:w-16"
         />

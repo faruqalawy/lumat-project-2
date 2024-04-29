@@ -3,17 +3,17 @@
         {
             "name": "Rasa Lezat",
             "description": "Nikmati Sensasi Lezat Dari Tiap Makanan Yang Dibuat Dengan Bahan Dan Resep Terbaik.",
-            "imgUrl": "../../ic_tasty.svg"
+            "imgUrl": "ic_tasty.svg"
         },
         {
             "name": "Instan",
             "description": "Tiap Makanan Bisa Siap Saji Hanya Dalam Hitungan Menit.",
-            "imgUrl": "../../ic_instant.svg"
+            "imgUrl": "ic_instant.svg"
         },
         {
             "name": "Higienis",
             "description": "Tiap Makanan Melalui Proses Pembuatan dan Packaging Yang Aman dan Bersih.",
-            "imgUrl": "../../ic_hygiene.svg"
+            "imgUrl": "ic_hygiene.svg"
         }
     ],
     "bestProduct": [
